@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ranadivyansh045.github.io/All-in-One-Moltari/sitemap.xml
