@@ -1645,3 +1645,34 @@ body.dark-mode .appointment-form textarea::placeholder {
     font-size: 22px;
     color: #0A4D9E;
 }
+
+/* UPI PAYMENT */
+
+.upi-payment{
+    padding:80px 20px;
+    text-align:center;
+}
+
+.upi-container{
+    max-width:350px;
+    margin:auto;
+    background:#fff;
+    padding:25px;
+    border-radius:15px;
+    box-shadow:0 10px 25px rgba(0,0,0,.1);
+}
+
+.upi-container img{
+    width:220px;
+    border-radius:12px;
+}
+
+.upi-container h3{
+    margin-top:20px;
+}
+
+.upi-container p{
+    font-size:18px;
+    font-weight:bold;
+    margin:15px 0;
+}
